@@ -48,7 +48,7 @@ git clone https://github.com/PauloCSantos/pets-app.git
 # no diretório pets
 
 ## entrar na pasta do projeto no terminal
-cd frontend
+cd pets
 
 ## instalar as dependencias
 npm i
